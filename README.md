@@ -42,13 +42,18 @@ It represents the threshold value such that the probability of portfolio loss ex
 
 ## 🏗️ Technical Architecture
 
-├── main.py # Main Streamlit application
-├── portfolio_manager.py # Portfolio construction & data management
-├── risk_calculator.py # Core VaR calculation engine
-├── visualization.py # Advanced plotting capabilities
-├── data_handler.py # Data processing & validation
-├── conf.toml # Application configuration
-└── requirements.txt # Python dependencies
+main.py # Main Streamlit application
+portfolio_manager.py # Portfolio construction & data management
+
+risk_calculator.py # Core VaR calculation engine
+
+visualization.py # Advanced plotting capabilities
+
+data_handler.py # Data processing & validation
+
+conf.toml # Application configuration
+
+requirements.txt # Python dependencies
 
 
 ---
